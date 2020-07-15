@@ -1,4 +1,5 @@
-127.0.0.1  https://www.tiktok.com/ru/
-127.0.0.1  https://www.tiktok.com
+127.0.0.1  tiktok.com/ru/
+127.0.0.1  tiktok.com
+127.0.0.1  www.tiktok.com
 ||tiktok.com^
 ||www.tiktok.com^
