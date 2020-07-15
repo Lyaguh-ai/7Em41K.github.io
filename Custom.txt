@@ -2,8 +2,7 @@
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
 #         Last updated: Wed, 22 Jan 20 12:15:23 +0000      #
 
-127.0.0.1  tiktok.com
-127.0.0.1  www.tiktok.com
+
 127.0.0.1  localhost
 127.0.0.1  0koryu0.easter.ne.jp
 127.0.0.1  109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -1109,3 +1108,8 @@
 127.0.0.1  zous.szm.sk
 127.0.0.1  zt.tim-taxi.com
 127.0.0.1  zyrdu.cruisingsmallship.com
+127.0.0.1  tiktok.com/ru/
+127.0.0.1  tiktok.com
+127.0.0.1  www.tiktok.com
+||tiktok.com^
+||www.tiktok.com^
