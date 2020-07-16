@@ -1113,5 +1113,6 @@
 127.0.0.1  www.tiktok.com
 127.0.0.1  grammarly.com
 127.0.0.1  plarium.com
+127.0.0.1  https://plarium.com/landings/ru/desktop/raid/icegolem_f036_a_rdoapp?plid=150231&pxl=admitad&publisherId=1245210_10545586258-104020551533-448506997340&admitad_uid=eaf2e009e7ea1f962c8450067436da18
 ||tiktok.com^
 ||www.tiktok.com^
