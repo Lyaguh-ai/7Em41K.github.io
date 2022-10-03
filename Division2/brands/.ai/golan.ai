@@ -1,0 +1,134 @@
+%!PS-Adobe-3.0
+%%Creator: GNU libplot drawing library 4.1
+%%For: (Unknown) (Unknown)
+%%Title: (Untitled)
+%%CreationDate: 
+%%BoundingBox: 0 0 130 88
+%%HiResBoundingBox: 0.0000 0.0000 130.00 88.00
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentFonts: 
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 3
+%AI3_ColorUsage: Color
+%AI7_ImageSettings: 0
+%AI3_DocumentPreview: None
+%AI5_ArtSize: 130 88
+%AI5_RulerUnits: 0
+%AI5_ArtFlags: 1 0 0 1 0 0 1 1 0
+%AI5_TargetResolution: 800
+%AI5_NumLayers: 1
+%AI5_OpenViewLayers: 7
+%%PageOrigin:0 0
+%%AI3_PaperRect:0 0130 88
+%%AI3_Margin:0 0 0 0
+%AI7_GridSettings: 72 8 72 8 1 0 0.8 0.8 0.8 0.9 0.9 0.9
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 0 79 128 255 Lb
+(Layer 1) Ln
+10.43 M
+0.09375 w
+[] 0.0000 d
+u
+1.000 1.000 1.000 Xa
+18.04 86.31 m
+37.69 86.43 57.34 86.46 76.99 86.53  C
+78.27 86.50 80.31 86.64 80.47 84.89  C
+80.60 82.25 81.83 78.99 79.87 76.79  C
+75.85 76.12 71.07 77.42 67.83 74.24  C
+64.00 71.65 66.28 65.11 61.38 63.61  C
+53.18 62.96 44.90 63.67 36.69 63.19  C
+33.83 62.63 33.43 59.40 33.46 57.01  C
+33.42 47.98 33.12 38.96 33.23 29.93  C
+33.12 27.81 34.40 26.08 35.68 24.55  C
+39.69 24.60 43.80 24.28 47.66 25.63  C
+48.05 27.29 49.04 29.19 47.71 30.71  C
+45.74 33.70 40.50 31.44 39.24 35.21  C
+38.61 40.46 38.99 45.79 39.00 51.07  C
+38.91 54.69 42.47 57.36 45.90 57.20  C
+50.53 57.25 55.20 57.67 59.81 57.23  C
+62.76 56.67 63.55 53.56 63.75 51.01  C
+64.28 45.33 69.47 40.74 75.11 40.52  C
+77.33 40.44 80.61 39.93 80.68 37.08  C
+81.09 27.38 81.12 17.66 81.35 7.95  C
+81.79 4.38 78.50 1.28 75.02 1.48  C
+53.02 1.05 31.02 0.79 9.02 0.84  C
+4.54 0.55 0.92 4.34 0.00 8.48  C
+0.00 30.16 L
+0.36 43.74 0.06 57.32 0.44 70.89  C
+1.07 79.67 9.43 86.47 18.04 86.31  C
+f
+1.000 1.000 1.000 Xa
+85.15 85.74 m
+86.08 87.58 88.32 87.12 90.00 87.21  C
+98.06 87.09 106.12 87.22 114.18 87.03  C
+117.85 86.88 121.18 83.70 121.26 79.99  C
+121.35 75.63 121.39 71.27 121.25 66.92  C
+121.24 65.47 119.98 64.50 119.26 63.38  C
+114.04 63.12 108.81 63.31 103.59 63.53  C
+103.39 67.50 103.12 72.01 99.66 74.65  C
+95.99 78.37 90.47 77.36 85.77 77.60  C
+84.22 79.97 84.09 83.17 85.15 85.74  C
+f
+1.000 1.000 1.000 Xa
+70.32 62.56 m
+69.37 68.63 74.70 73.96 80.67 73.68  C
+80.79 71.13 80.61 68.58 80.92 66.05  C
+81.62 63.92 83.93 64.33 85.67 64.32  C
+86.19 67.36 86.06 70.44 86.10 73.50  C
+89.23 73.69 92.78 73.59 95.10 71.16  C
+97.48 69.05 97.75 65.71 97.48 62.74  C
+94.87 62.76 92.26 62.72 89.65 62.51  C
+89.31 61.29 89.00 60.05 88.71 58.81  C
+91.54 57.84 94.54 57.71 97.50 57.78  C
+97.54 51.67 92.68 45.34 86.07 46.50  C
+85.51 49.19 87.40 53.68 83.97 54.90  C
+79.45 55.18 80.64 49.65 80.37 46.72  C
+79.27 46.77 78.18 46.83 77.08 46.89  C
+71.74 47.38 68.67 52.76 69.46 57.76  C
+71.71 57.79 73.96 57.81 76.21 57.70  C
+78.04 58.80 78.64 60.64 77.37 62.47  C
+75.02 62.51 72.67 62.53 70.32 62.56  C
+f
+1.000 1.000 1.000 Xa
+102.54 50.46 m
+103.36 52.85 102.89 56.43 105.91 57.34  C
+108.95 57.71 112.03 57.62 115.08 57.47  C
+117.48 57.48 119.64 55.31 119.68 52.92  C
+120.04 45.35 119.36 37.74 119.98 30.19  C
+121.03 26.46 125.35 26.42 128.50 26.49  C
+128.87 26.09 129.62 25.29 130.00 24.89  C
+130.00 6.81 L
+129.08 4.33 126.80 2.27 124.00 2.60  C
+113.32 2.58 102.63 2.49 91.95 2.64  C
+88.66 2.63 85.90 5.66 86.19 8.93  C
+86.20 18.63 86.11 28.34 86.24 38.04  C
+86.18 40.04 88.00 41.71 89.98 41.61  C
+95.41 41.79 101.02 44.99 102.54 50.46  C
+f
+U
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_level2_AI5 /terminate get exec
+%%EOF

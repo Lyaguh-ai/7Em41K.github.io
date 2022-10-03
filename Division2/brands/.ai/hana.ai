@@ -1,0 +1,90 @@
+%!PS-Adobe-3.0
+%%Creator: GNU libplot drawing library 4.1
+%%For: (Unknown) (Unknown)
+%%Title: (Untitled)
+%%CreationDate: 
+%%BoundingBox: 0 0 92 64
+%%HiResBoundingBox: 0.0000 0.0000 92.00 64.00
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentFonts: 
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 3
+%AI3_ColorUsage: Color
+%AI7_ImageSettings: 0
+%AI3_DocumentPreview: None
+%AI5_ArtSize: 92 64
+%AI5_RulerUnits: 0
+%AI5_ArtFlags: 1 0 0 1 0 0 1 1 0
+%AI5_TargetResolution: 800
+%AI5_NumLayers: 1
+%AI5_OpenViewLayers: 7
+%%PageOrigin:0 0
+%%AI3_PaperRect:0 092 64
+%%AI3_Margin:0 0 0 0
+%AI7_GridSettings: 72 8 72 8 1 0 0.8 0.8 0.8 0.9 0.9 0.9
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 0 79 128 255 Lb
+(Layer 1) Ln
+10.43 M
+0.09375 w
+[] 0.0000 d
+u
+1.000 1.000 1.000 Xa
+31.11 64.00 m
+32.56 64.00 L
+32.56 61.45 32.57 58.90 32.58 56.34  C
+27.48 53.25 23.16 48.71 21.07 43.06  C
+17.46 34.09 19.57 23.17 26.27 16.20  C
+32.70 9.16 43.29 6.35 52.35 9.34  C
+63.16 12.59 70.83 23.68 70.13 34.94  C
+69.90 43.22 65.14 50.79 58.45 55.45  C
+57.32 57.99 58.31 61.23 58.20 64.00  C
+58.57 64.00 L
+65.51 59.93 71.98 54.47 75.13 46.86  C
+81.66 32.87 76.79 14.75 64.02 6.03  C
+59.01 2.46 52.99 0.42 46.86 0.00  C
+43.20 0.00 L
+37.05 0.40 31.01 2.45 25.98 6.02  C
+15.57 13.23 10.16 26.72 12.50 39.14  C
+14.33 49.90 21.86 59.47 31.91 63.75  C
+31.11 64.00 L
+f
+1.000 1.000 1.000 Xa
+23.55 34.97 m
+23.97 41.30 27.51 47.11 32.51 50.89  C
+32.74 43.63 32.31 36.34 32.71 29.08  C
+33.57 22.41 41.08 19.40 47.06 20.07  C
+52.60 20.60 57.28 25.36 57.75 30.89  C
+58.31 37.29 57.77 43.72 58.10 50.12  C
+62.23 46.52 65.29 41.56 65.93 36.06  C
+67.06 28.37 63.59 20.26 57.26 15.76  C
+50.59 10.80 40.94 10.38 33.87 14.74  C
+26.95 18.81 22.77 26.98 23.55 34.97  C
+f
+U
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_level2_AI5 /terminate get exec
+%%EOF
